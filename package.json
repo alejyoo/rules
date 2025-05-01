@@ -14,7 +14,7 @@
     "typescript": "^5.8.3"
   },
   "exports": {
-    "./biome": "./src/biome/base.json",
-    "./typescript": "./src/typescript/base.json"
+    "./biome": "./templates/biome.json",
+    "./typescript": "./templates/typescript.json"
   }
 }
