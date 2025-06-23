@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/alejyoo/rules/compare/v1.0.1...v1.0.2) (2025-06-23)
+
+
+### Bug Fixes
+
+* update schema version and enable assist actions in biome.json ([b2a3c18](https://github.com/alejyoo/rules/commit/b2a3c18fa63ac5f29f7f97c234ad6e55011f6a62))
+
 ## [1.0.1](https://github.com/alejyoo/rules/compare/v1.0.0...v1.0.1) (2025-05-01)
 
 

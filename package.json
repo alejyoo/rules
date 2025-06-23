@@ -1,6 +1,6 @@
 {
   "name": "@alejyoo000/rules",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "scripts": {
     "fmt": "biome format --write",
     "commit": "commitlint --edit ${1}"
