@@ -1,10 +1,12 @@
 {
-  "$schema": "https://biomejs.dev/schemas/1.8.3/schema.json",
-  "files": {
-    "ignore": ["dist", "node_modules"]
-  },
-  "organizeImports": {
-    "enabled": false
+  "$schema": "https://biomejs.dev/schemas/latest/schema.json",
+  "assist": {
+    "enabled": true,
+    "actions": {
+      "source": {
+        "recommended": true
+      }
+    }
   },
   "linter": {
     "enabled": true,
