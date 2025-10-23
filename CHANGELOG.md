@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/alejyoo/rules/compare/v1.1.0...v1.1.1) (2025-10-23)
+
+
+### Bug Fixes
+
+* outdir fix ([be81e50](https://github.com/alejyoo/rules/commit/be81e501b3dec4254396c1132e48768df09b7809))
+
 ## [1.1.0](https://github.com/alejyoo/rules/compare/v1.0.2...v1.1.0) (2025-10-23)
 
 
