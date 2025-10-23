@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/alejyoo/rules/compare/v1.0.2...v1.1.0) (2025-10-23)
+
+
+### Features
+
+* update config ([78bf247](https://github.com/alejyoo/rules/commit/78bf247bc2cd1524d5d7689526509945840f9886))
+
 ## [1.0.2](https://github.com/alejyoo/rules/compare/v1.0.1...v1.0.2) (2025-06-23)
 
 
